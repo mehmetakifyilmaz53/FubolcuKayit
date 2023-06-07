@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\bin\Debug\net6.0\class örnek.exe
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\bin\Debug\net6.0\class örnek.deps.json
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\bin\Debug\net6.0\class örnek.runtimeconfig.json
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\bin\Debug\net6.0\class örnek.dll
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\bin\Debug\net6.0\class örnek.pdb
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.AssemblyInfo.cs
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.dll
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\refint\class örnek.dll
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.pdb
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\class örnek.genruntimeconfig.cache
+C:\Users\pc\Documents\mehmet akif\27-02\27 Şubat\class örnek\obj\Debug\net6.0\ref\class örnek.dll
